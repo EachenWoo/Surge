@@ -132,7 +132,7 @@ DOMAIN-SUFFIX,ts.net
 DOMAIN-SUFFIX,wifi.cmcc
 DOMAIN-SUFFIX,zte.home
 IP-CIDR,0.0.0.0/8,no-resolve
-IP-CIDR,10.1.0.0/16,no-resolve
+#IP-CIDR,10.1.0.0/16,no-resolve
 IP-CIDR,100.64.0.0/10,no-resolve
 IP-CIDR,127.0.0.0/8,no-resolve
 IP-CIDR,169.254.0.0/16,no-resolve
