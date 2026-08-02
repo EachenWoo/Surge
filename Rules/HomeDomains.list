@@ -1,0 +1,9 @@
+# 需要通过进入家庭内网的域名
+DOMAIN,eachen.me
+DOMAIN,plex.eachen.me
+DOMAIN,mail.eachen.me
+DOMAIN,emby.eachen.me
+
+# 示例：
+# DOMAIN,camera.eachen.me
+# DOMAIN,office.eachen.me
