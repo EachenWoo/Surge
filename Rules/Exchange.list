@@ -1,0 +1,41 @@
+# ============================================================
+# Exchange.list
+# Cryptocurrency Exchange Rules
+# ============================================================
+
+
+# ---------------- OKX ----------------
+# www.okx.com
+# openapi.okx.com
+# ws.okx.com
+# wspap.okx.com
+# 区域站 us.okx.com / eea.okx.com 等也一起覆盖
+DOMAIN-SUFFIX,okx.com
+
+
+# ---------------- KuCoin ----------------
+# www.kucoin.com
+# wsapi.kucoin.com
+# wsapi-push.kucoin.com
+DOMAIN-SUFFIX,kucoin.com
+
+
+# ---------------- Bybit ----------------
+DOMAIN-SUFFIX,bybit.com
+
+
+# ---------------- Bitget ----------------
+# www.bitget.com
+# ws.bitget.com
+DOMAIN-SUFFIX,bitget.com
+
+
+# ---------------- Gate ----------------
+# www.gate.com
+# ws.gate.com
+DOMAIN-SUFFIX,gate.com
+
+# Gate 旧域名 / API 仍可能使用
+# 官方 WebSocket 文档目前仍同时列出 ws.gateio.com
+DOMAIN-SUFFIX,gateio.com
+DOMAIN-SUFFIX,gate.io
