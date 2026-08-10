@@ -13,7 +13,7 @@ DOMAIN-SUFFIX,gov.cn
 DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xmcdn.com
 DOMAIN-SUFFIX,zztfly.com
-
+DOMAIN,api.ip.sb
 # ---------------- 浙里办 ----------------
 DOMAIN-SUFFIX,zjzwfw.gov.cn
 
