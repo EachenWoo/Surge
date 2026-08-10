@@ -20,3 +20,5 @@ DOMAIN-SUFFIX,zjzwfw.gov.cn
 
 # ---------------- 交管 12123 ----------------
 DOMAIN-SUFFIX,122.gov.cn
+# ---------------- 中国移动 ----------------
+DOMAIN-SUFFIX,cmpassport.com
