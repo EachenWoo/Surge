@@ -24,6 +24,8 @@ DOMAIN-SUFFIX,getui.com
 DOMAIN-SUFFIX,e.qq.com
 DOMAIN-SUFFIX,gdt.qq.com
 DOMAIN-SUFFIX,gdtimg.com
+IP-CIDR,101.91.134.0/24,no-resolve
+IP-CIDR,101.89.45.109/32,no-resolve
 # ---------------- 浙里办 ----------------
 DOMAIN-SUFFIX,zjzwfw.gov.cn
 
