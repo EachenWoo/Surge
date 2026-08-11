@@ -21,3 +21,38 @@ DOMAIN-SUFFIX,zjzwfw.gov.cn
 DOMAIN-SUFFIX,122.gov.cn
 # ---------------- 中国移动 ----------------
 DOMAIN-SUFFIX,cmpassport.com
+# ---------------- 爱奇艺 ----------------
+DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,qiyi.com
+DOMAIN-SUFFIX,iqiyipic.com
+DOMAIN-SUFFIX,qiyipic.com
+DOMAIN-SUFFIX,71.am
+DOMAIN-SUFFIX,71edge.com
+DOMAIN-SUFFIX,pps.tv
+DOMAIN-SUFFIX,ppsimg.com
+
+# ---------------- 优酷 / 酷喵 ----------------
+DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,youkucdn.com
+DOMAIN-SUFFIX,ykimg.com
+DOMAIN-SUFFIX,tudou.com
+DOMAIN-SUFFIX,soku.com
+
+# ---------------- 腾讯视频 / 云视听极光 ----------------
+DOMAIN-SUFFIX,v.qq.com
+DOMAIN-SUFFIX,video.qq.com
+DOMAIN-SUFFIX,film.qq.com
+DOMAIN-SUFFIX,tc.qq.com
+DOMAIN-SUFFIX,v.smtcdns.com
+DOMAIN-SUFFIX,videojj.com
+
+# ---------------- 芒果 TV ----------------
+DOMAIN-SUFFIX,mgtv.com
+DOMAIN-SUFFIX,hunantv.com
+
+# ---------------- Bilibili ----------------
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,hdslb.com
